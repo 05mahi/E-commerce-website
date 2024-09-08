@@ -1,0 +1,56 @@
+#bg{
+    background-image: url("https://www.adpr.co.uk/wp-content/uploads/2021/02/Untitled-design-2021-09-29T094934.729.png");
+    background-size: cover;
+}
+
+#card{
+    background-color: bisque;
+}
+
+#text{
+    text-align: center;
+
+}
+#cont{
+    /* background-color: rgba(153, 241, 246, 0.5); */
+}
+    
+
+/* .col:before {
+    content: "";
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(-45deg, #72ddf7 0%, #fdc5f5 100% );
+    transform: translate3d(0px, 20px, 0) scale(0.95);
+    filter: blur(20px);
+    opacity: var(0.7);
+    transition: opacity 0.3s;
+    border-radius: inherit;
+}
+
+/* 
+* Prevents issues when the parent creates a 
+* stacking context. (For example, using the transform
+* property )
+*/
+/* .col::after {
+    content: "";
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: inherit;
+    border-radius: inherit;
+/* }  */
+# {
+    box-shadow: 0 0 60px 0 rgba(158, 210, 202, 0.8),
+      /* inset -100px 10px 80px 20px #080707, */
+      0 0 40px 10px rgba(136, 230, 228, 0.54),
+      inset 0 0 10px 0 #6db8e0;
+}
